@@ -1,0 +1,15 @@
+{
+  "main.css": "http://localhost/pwa-2/static/css/main.23a4bac5.chunk.css",
+  "main.js": "http://localhost/pwa-2/static/js/main.e53b3da8.chunk.js",
+  "main.js.map": "http://localhost/pwa-2/static/js/main.e53b3da8.chunk.js.map",
+  "runtime~main.js": "http://localhost/pwa-2/static/js/runtime~main.bbff4c00.js",
+  "runtime~main.js.map": "http://localhost/pwa-2/static/js/runtime~main.bbff4c00.js.map",
+  "static/css/2.a5a1c17c.chunk.css": "http://localhost/pwa-2/static/css/2.a5a1c17c.chunk.css",
+  "static/js/2.510986f1.chunk.js": "http://localhost/pwa-2/static/js/2.510986f1.chunk.js",
+  "static/js/2.510986f1.chunk.js.map": "http://localhost/pwa-2/static/js/2.510986f1.chunk.js.map",
+  "index.html": "http://localhost/pwa-2/index.html",
+  "precache-manifest.27a6431b3833d2c01c5eca336e90cd11.js": "http://localhost/pwa-2/precache-manifest.27a6431b3833d2c01c5eca336e90cd11.js",
+  "service-worker.js": "http://localhost/pwa-2/service-worker.js",
+  "static/css/2.a5a1c17c.chunk.css.map": "http://localhost/pwa-2/static/css/2.a5a1c17c.chunk.css.map",
+  "static/css/main.23a4bac5.chunk.css.map": "http://localhost/pwa-2/static/css/main.23a4bac5.chunk.css.map"
+}
